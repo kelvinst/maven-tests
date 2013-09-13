@@ -1,4 +1,3 @@
-maven-tutorial
-==============
+# maven-tests
 
-Just a simple maven tutorial
+This is a repository for my maven tests, to discover by practice the underground of maven.
